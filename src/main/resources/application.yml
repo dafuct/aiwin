@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: aiwin
+  ai:
+    openai:
+      api-key: test
